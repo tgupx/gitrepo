@@ -8,4 +8,4 @@ match name:
     case "Draco":
         print("Slytherin")
     case _:
-        print("Ravenclaw")
+        print("No House")
