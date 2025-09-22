@@ -1,4 +1,3 @@
 Hello World! Good Morning
-Hello World! Good Afternoon
 Hello World! Good Evening
 Hello World! Good Night
