@@ -1,0 +1,89 @@
+commit 2c4cd72321ad639fbe2286182686677d74b9615f
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 23:25:08 2025 -0500
+
+    updated text1
+
+commit 347e252c33ec4ab92a14f10cb7e43f44d3f8e6a9
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 23:03:07 2025 -0500
+
+    New file
+
+commit 57943f7332831e36cc80a6194a7b2778a174b161
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 23:01:16 2025 -0500
+
+    renamed file
+
+commit 425abc8c05c4f7fcc6a72e0fff6f13262ab36da7
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 22:48:50 2025 -0500
+
+    Ignore tails directory
+
+commit 332c4a6ae6f211d1ab6aa8c9ad43c99532e6260a
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 22:44:54 2025 -0500
+
+    Added .gitignore
+
+commit 75b4798153a9f079b74e8e3eb483a6618720579b
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 22:29:01 2025 -0500
+
+    new name
+
+commit a63d1bbd044b9ac69f2e60f95cfc5c07136c9d8a
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 22:25:17 2025 -0500
+
+    rename text1.txt
+
+commit bff58494c36ffc187be5d07cd4a906ec61ca0921
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 22:05:48 2025 -0500
+
+    remove file text2.txt
+
+commit 952ebfdb0de6c88a42f4db3131c4dbb78bd500ff
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 21:58:03 2025 -0500
+
+    New text file2
+
+commit 39b4c7e7bd9fd2351184f76cb5734b41aef6532e
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 21:56:55 2025 -0500
+
+    commit changes directlt to main
+
+commit ad3fc2db15e1870ae9273eb07db75cc236d818db
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 18:18:05 2025 -0500
+
+    changes in file1.py
+
+commit 28090eb9d0611737586c6d969320564fb4dc6bbd
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 18:14:47 2025 -0500
+
+    New changes
+
+commit 33622de5b85eb1d4b046c6eadae84bb1a209291d
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 18:03:34 2025 -0500
+
+    This is my updated commit to for text1.txt file
+
+commit f79ae86297cc08ba691bbcb7cdbd77a461fe0b0d
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 18:00:30 2025 -0500
+
+    changes to text1.txt
+
+commit c15bbd07d5d20191ff5493465a62c6c834fba362
+Author: tgupx <tguptax89@gmail.com>
+Date:   Sun Sep 21 17:48:55 2025 -0500
+
+    First commit
